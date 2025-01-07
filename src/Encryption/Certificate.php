@@ -1,6 +1,6 @@
 <?php
 
-namespace Vegetation\Fern\Encryption;
+namespace Vegetation\Pepper\Encryption;
 
 class Certificate
 {
